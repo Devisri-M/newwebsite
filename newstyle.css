@@ -1,0 +1,26 @@
+body {
+	background: #000000;
+}
+
+.contentbox {
+        border-color: black;
+        border-style: solid;
+        border-width: thin;
+        width: 20%;
+        height: 50%;
+        padding 1.618em;
+        display: inline-block;
+        float: left;
+}
+
+#boxIA{
+	background-color: orange;
+}
+
+#boxIIA{
+	background-color: yellow;
+}
+
+#boxIIIA{
+	background-color: green;
+}
